@@ -22,3 +22,23 @@ https://github.com/nieremath/SQL_DDL_DML_Practice/blob/5d8122114a68381f5fc74c5c3
 ![3](https://user-images.githubusercontent.com/105595931/217274067-5c582083-24ad-4e7c-a90b-878bc95672f9.JPG)
 
 https://github.com/nieremath/SQL_DDL_DML_Practice/blob/5d8122114a68381f5fc74c5c389ee70dfced0a6d/DDL_DML_Practice.sql#L68-L86
+
+#### 4. Merge Table
+![4](https://user-images.githubusercontent.com/105595931/217274288-f6efd19f-cddf-4750-b78b-bce3cafcd8c4.JPG)
+
+https://github.com/nieremath/SQL_DDL_DML_Practice/blob/5d8122114a68381f5fc74c5c389ee70dfced0a6d/DDL_DML_Practice.sql#L88-L114
+
+#### 5. Merge Null Fill
+![5](https://user-images.githubusercontent.com/105595931/217274430-04fadc74-9c15-40ae-b5b8-628ac203070a.JPG)
+
+https://github.com/nieremath/SQL_DDL_DML_Practice/blob/5d8122114a68381f5fc74c5c389ee70dfced0a6d/DDL_DML_Practice.sql#L116-L154
+
+#### 6. Merge Override
+![6](https://user-images.githubusercontent.com/105595931/217274456-b46b211c-349e-4ec8-9a6b-b34d83428144.JPG)
+
+https://github.com/nieremath/SQL_DDL_DML_Practice/blob/5d8122114a68381f5fc74c5c389ee70dfced0a6d/DDL_DML_Practice.sql#L156-L187
+
+#### 7. Append
+![7](https://user-images.githubusercontent.com/105595931/217274467-63ef6481-b29f-4180-aaac-d59718263781.JPG)
+
+https://github.com/nieremath/SQL_DDL_DML_Practice/blob/5d8122114a68381f5fc74c5c389ee70dfced0a6d/DDL_DML_Practice.sql#L189-L198
